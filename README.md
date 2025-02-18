@@ -1,7 +1,7 @@
 ## 📄 Description
 
-This is a website project for a fictitious Scuba Diving company located in Gold Coast and Heron Island, Australia. 
-The website is built with PHP and uses JavaScript to enhance user navigation and interactions, ensuring a smooth and intuitive experience.    
+🪸🐠 This is a website project for a fictitious Scuba Diving company located in Gold Coast and Heron Island, Australia. 
+The website is built with PHP and uses JavaScript to enhance user navigation and interactions, ensuring a smooth and intuitive experience. 🪸🪼    
 
 * No frameworks
 * No AI code

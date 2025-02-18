@@ -51,7 +51,7 @@ Steps to start the server:
 
 4. In your browser type the following URL: 
 
-   127.0.0.1:80/phpMyAdmin5/
+   127.0.0.1:80
 
 
   
